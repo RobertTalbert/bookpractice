@@ -47,3 +47,7 @@ Here it goes
 ### subheading 
 
 here that goes 
+
+$$\sqrt{2}$$
+
+\\(\sqrt{2}\\)
