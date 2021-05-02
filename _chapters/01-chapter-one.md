@@ -33,3 +33,17 @@ Math? $x^2 + y^2 = 2$
 
 Some more math
 $$z^2 + w^3$$
+
+---
+
+## Now let's try headings
+
+Some more math $C(8,4) = 70$
+
+## Another heading 
+
+Here it goes 
+
+### subheading 
+
+here that goes 
