@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chapter One
+mathjax: true
 ---
 
 Chapter One
