@@ -12,3 +12,5 @@ This is chapter one.
 The format you can use for writing is called **markdown**.
 
 It supports [links](boris-marinov.github.io) images etc.
+
+Math? $x^2 + y^2 = 2$
