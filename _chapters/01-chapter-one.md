@@ -29,3 +29,6 @@ It supports [links](boris-marinov.github.io) images etc.
 
 
 Math? $x^2 + y^2 = 2$
+
+Some more math
+$$z^2 + w^3$$
