@@ -21,7 +21,7 @@ excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/jekyll-book-boilerplate"
+baseurl: "/bookpractice"
 
 collections:
   chapters:
