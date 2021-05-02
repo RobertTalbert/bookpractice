@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: My awesome book
+name: Discrete Structures book prototype 
 
 # Short bio or description (displayed in the header)
-description: This is a book I wrote, using the Jekyll Book Boilerplate
+description: This is a test site for trying out stuff for a potential MTH 225 book
 #
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
