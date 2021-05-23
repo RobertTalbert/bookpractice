@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What is discrete structures? 
+title: Chapter One
 mathjax: true
 ---
 
