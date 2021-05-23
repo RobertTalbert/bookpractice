@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Chapter One
+title: What is discrete structures? 
 mathjax: true
 ---
 
-Chapter One
+Discrete versus continuous 
 ===
 
 
