@@ -1,5 +1,5 @@
 ---
-title: My awesome book
-author: Boris Marinov
+title: A MTH 225 Prototype
+author: Robert Talbert
 language: en-US
 ...
